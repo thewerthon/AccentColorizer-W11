@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AccentColorizer-E11")]
+[assembly: AssemblyTitle("AccentColorizer-W11")]
 [assembly: AssemblyDescription("AccentColorizer for File Explorer Glyphs")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("krlvm")]
-[assembly: AssemblyProduct("AccentColorizer-E11")]
+[assembly: AssemblyProduct("AccentColorizer-W11")]
 [assembly: AssemblyCopyright("Copyright © krlvm 2022-2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
